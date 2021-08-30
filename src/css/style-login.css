@@ -1,0 +1,32 @@
+.form-control, .btn{
+  min-height: 3.125rem;
+}
+
+label{
+  font-size: 16px;
+}
+
+.btn{
+  font-size: 18px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.img-1 {
+  background-image: url('../assets/imglogin/img1.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.img-2 {
+  background-image: url('../assets/imglogin/img2.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.strong{
+  font-size: 20px;
+}
+

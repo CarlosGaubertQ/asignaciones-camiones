@@ -1,0 +1,18 @@
+.tarjeta:hover{
+  animation: pulse;
+  animation-duration: 1s;
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.tituloFooter:hover{
+  color: #5467d3
+}
+
+.tituloFooter{
+  color: rgb(0, 0, 0)
+}
